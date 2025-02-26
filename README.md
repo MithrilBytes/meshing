@@ -18,3 +18,5 @@ With this, you can:
 4. **Dash & Plotly:** The visualization refreshes every 10 seconds, without opening 100 browser tabs like a chaotic robot.
 
 ---
+
+<img width="1711" alt="Screenshot 2025-02-25 at 7 35 22 PM" src="https://github.com/user-attachments/assets/7e01dd7a-1cfa-4337-80e9-f2f22f3eade3" />
